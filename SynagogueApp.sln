@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Synagogue App", "Synagogue App\Synagogue App.csproj", "{62A5602A-F698-45CC-8951-CBDE52F4A46E}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "MySyn Setup", "MySyn Setup\MySyn Setup.vdproj", "{50FE7B58-CB1B-4C3F-BED4-26446B9AF428}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Any CPU = CD_ROM|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		DVD-5|Any CPU = DVD-5|Any CPU
+		Release|Any CPU = Release|Any CPU
+		SingleImage|Any CPU = SingleImage|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62A5602A-F698-45CC-8951-CBDE52F4A46E}.CD_ROM|Any CPU.ActiveCfg = Release|Any CPU
+		{62A5602A-F698-45CC-8951-CBDE52F4A46E}.CD_ROM|Any CPU.Build.0 = Release|Any CPU
+		{62A5602A-F698-45CC-8951-CBDE52F4A46E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62A5602A-F698-45CC-8951-CBDE52F4A46E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62A5602A-F698-45CC-8951-CBDE52F4A46E}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{62A5602A-F698-45CC-8951-CBDE52F4A46E}.DVD-5|Any CPU.Build.0 = Debug|Any CPU
+		{62A5602A-F698-45CC-8951-CBDE52F4A46E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62A5602A-F698-45CC-8951-CBDE52F4A46E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62A5602A-F698-45CC-8951-CBDE52F4A46E}.SingleImage|Any CPU.ActiveCfg = Release|Any CPU
+		{62A5602A-F698-45CC-8951-CBDE52F4A46E}.SingleImage|Any CPU.Build.0 = Release|Any CPU
+		{50FE7B58-CB1B-4C3F-BED4-26446B9AF428}.CD_ROM|Any CPU.ActiveCfg = Release
+		{50FE7B58-CB1B-4C3F-BED4-26446B9AF428}.Debug|Any CPU.ActiveCfg = Debug
+		{50FE7B58-CB1B-4C3F-BED4-26446B9AF428}.DVD-5|Any CPU.ActiveCfg = Debug
+		{50FE7B58-CB1B-4C3F-BED4-26446B9AF428}.Release|Any CPU.ActiveCfg = Release
+		{50FE7B58-CB1B-4C3F-BED4-26446B9AF428}.SingleImage|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
